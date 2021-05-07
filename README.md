@@ -1,2 +1,2 @@
-# goit-markup-hw-06
+# test
 https://tofikwest.github.io/test/
