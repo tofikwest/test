@@ -680,7 +680,6 @@ img {
 
 .down-part .container {
   display: flex;
-  /* width: 100%; */
 }
 .foot-wrap {
   display: flex;
@@ -695,11 +694,7 @@ img {
 .left-block {
   display: flex;
 
-  width: 100%;
-
   flex-basis: calc((100% - 30px) / 2);
-  margin-left: var(--card-set-gap);
-  margin-top: var(--card-set-gap);
 }
 .footer-left-content {
   display: flex;
@@ -755,15 +750,10 @@ img {
 /* ---------FOOTER RIGHT SIDE____ */
 .right-block {
   display: flex;
-  width: 100%;
+
   flex-basis: calc((100% - var(--card-set-gap)) / 2);
-  /* margin-left: var(--card-set-gap);
-  margin-top: var(--card-set-gap); */
 }
-.footer-right-side {
-  margin-left: 93px;
-  padding-top: 12px;
-}
+
 .footer-subscribe-form {
   display: flex;
 
